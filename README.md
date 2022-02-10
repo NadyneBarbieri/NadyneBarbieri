@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/NadyneBarbieri/NadyneBarbier/raw/main/assets/header-github.gif" alt="Olá, me chamo Nadyne">
+  <img src="https://github.com/NadyneBarbieri/NadyneBarbier/raw/main/assets/cabeçalho" alt="Olá, me chamo Nadyne">
 </p>
 <div align="center">
   <a href="https://github.com/NadyneBarbieri">
