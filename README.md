@@ -17,7 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/>
    <img align="right" height="150em" height="150" 
-  < width="148" height="180" src="https://media.giphy.com/media/7EpP0c4HVylVDopv6B/giphy.gif">
+  < width="148" height="180" src="https://media.giphy.com/media/OpzPFEqd44SYAIFrs6/giphy.gif">
  
 <div> 
  
