@@ -1,15 +1,23 @@
 <p align="center">
-  <img src="https://github.com/NadyneBarbieri/NadyneBarbieri/blob/main/assets/ezgif.com-gif-maker.gif" alt="Olá, me chamo Nadyne">
+  <img src="https://github.com/NadyneBarbieri/NadyneBarbieri/blob/main/assets/ezgif.com-gif-maker (1).gif" alt="Olá, me chamo Nadyne">
 </p>
 
 <div align="center">
+  
   <a href="https://github.com/NadyneBarbieri">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NadyneBarbieri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadyneBarbieri&layout=compact&langs_count=7&theme=dracula">
 </div>
-  
-  
-  ##
+  <h1> Skills </h1>
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/>
+   <img align="right" height="150em" height="150" 
+  < width="148" height="180" src="https://media.giphy.com/media/4fAapE4piiQFcFdH62/giphy.gif">
  
 <div> 
  
