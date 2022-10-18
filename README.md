@@ -18,11 +18,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/rexxars/react-hexagon/HEAD/logo/react-hexagon.png" width="30" height="30"/>
-   <img align="right" height="150em" height="150" 
-  < width="148" height="180" src="https://media.giphy.com/media/OpzPFEqd44SYAIFrs6/giphy.gif">
+  <img align="right" height="150em" height="150" 
+  <width="148" height="180" src="https://media.giphy.com/media/OpzPFEqd44SYAIFrs6/giphy.gif">
  
 <div> 
- <h1>Contacts: </h1>
+ <h2>Contato: </h2>
   <a href="https://instagram.com/nadynemayara" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </a> 
   <a href = "mailto:barbierinadyne@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
