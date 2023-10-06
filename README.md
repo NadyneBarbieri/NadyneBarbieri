@@ -17,6 +17,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/rexxars/react-hexagon/HEAD/logo/react-hexagon.png" width="30" height="30"/>
+<img src="https://camo.githubusercontent.com/dd8b0601cdfefe534a6a26f4c29c7f8a5fcfc315002655f519c73121f7bad8bc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="30" height="30"/>
   <img align="right" height="150em" height="150" 
   <width="148" height="180" src="https://media.giphy.com/media/OpzPFEqd44SYAIFrs6/giphy.gif">
  
