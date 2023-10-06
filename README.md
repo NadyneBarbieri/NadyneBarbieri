@@ -23,8 +23,7 @@
   <a href = "mailto:barbierinadyne@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nadynebarbieri" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/NadyneBarbieri/NadyneBarbieri/blob/output/github-contribution-grid-snake.svg)
-  
+
 </div>
 <p align="center"> Total de visitas des de 26/02/2022 </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/NadyneBarbieri/count.svg" /></p>
