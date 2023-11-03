@@ -32,4 +32,4 @@
 
 </div>
 <p align="center"> Total de visitas des de 26/02/2022 </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/NadyneBarbieri/count.svg" /></p>
+<p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/NadyneBarbieri/count.svg" /></p>
