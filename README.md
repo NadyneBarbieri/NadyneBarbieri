@@ -17,8 +17,9 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="30"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/>
   <img align="center" height="30"  src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="30" height="30"/>
-  <img align="center" height="30" width="40" align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
-  <img align="center" height="30" width="40" align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" />
+  <img align="center" height="30" width="40"  src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" />
+  <img align="center" height="30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
@@ -36,7 +37,7 @@
  
 
 </div>
-<p align="center"> Total de visitas des de 26/02/2022 </p>
-<p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/NadyneBarbieri/count.svg" /></p>
+<p align="center" margin="300px"> Total de visitas des de 26/02/2022 </p>
+<p align="center"> <img src="https://profile-counter.glitch.me/NadyneBarbieri/count.svg" /></p>
 
 ![Snake animation](https://github.com/NadyneBarbieri/NadyneBarbieri/blob/output/github-contribution-grid-snake.svg)  
