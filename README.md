@@ -31,10 +31,9 @@
 <div> 
  <h2>Contato: </h2>
   <a target="_blank" href="https://www.instagram.com/nadyenebarbieri/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</a> 
   <a target="_blank" href = "mailto:barbierinadyne@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a target="_blank" href="https://www.linkedin.com/in/nadynebarbieri" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+   <a href="https://discord.com/#5421" target="_blank"><img width="100" height="28" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 </div>
 <p align="center" margin="300px"> Total de visitas des de 26/02/2022 </p>
