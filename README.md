@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/NadyneBarbieri/NadyneBarbieri/blob/main/assets/ezgif.com-gif-maker (1).gif" alt="Olá, me chamo Nadyne">
+  <img src="https://github.com/NadyneBarbieri/NadyneBarbieri/blob/main/assets/nadyne.gif" alt="Olá, me chamo Nadyne">
 </p>
 <div>
   <a href="https://github.com/NadyneBarbieri">
