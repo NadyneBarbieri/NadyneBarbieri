@@ -2,9 +2,8 @@
   <img src="https://github.com/NadyneBarbieri/NadyneBarbieri/blob/main/assets/nadyne.gif" alt="Olá, me chamo Nadyne">
 </p>
 <div>
-  <a href="https://github.com/NadyneBarbieri">
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NadyneBarbieri&show_icons=true&locale=en&theme=react" alt="NadyneBarbieri" /></p>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadyneBarbieri&layout=compact&langs_count=7&theme=react" />
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=NadyneBarbieri&show_icons=true&locale=en&theme=react" alt="NadyneBarbieri"/>
+  <img height="180em"  paddim="800px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadyneBarbieri&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 <h1> Skills </h1>
