@@ -5,7 +5,7 @@
   <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api?username=NadyneBarbieri&show_icons=true&locale=en&theme=react" alt="NadyneBarbieri"/>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadyneBarbieri&layout=compact&langs_count=7&theme=react"/>
   <br clear="both">
-  <img align="right" height="180px"  src="https://media.giphy.com/media/OpzPFEqd44SYAIFrs6/giphy.gif">
+  
 </div>
  
 <h1> Skills </h1 >
@@ -26,6 +26,7 @@
   <img align="center" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="30px" width="40px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
+  <img align="right" height="180px"  src="https://media.giphy.com/media/OpzPFEqd44SYAIFrs6/giphy.gif">
  
  </div>
 <br clear="both">
