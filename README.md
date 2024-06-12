@@ -50,5 +50,5 @@
 </div>
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/g4brielpy/g4brielpy/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/g4brielpy/NadyneBarbieri/output/snake.svg" alt="Snake animation" />
 
