@@ -48,4 +48,7 @@
   <img src="https://profile-counter.glitch.me/NadyneBarbieri/count.svg" />
 </p>
 </div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/g4brielpy/g4brielpy/output/snake.svg" alt="Snake animation" />
 
