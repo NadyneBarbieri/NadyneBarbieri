@@ -4,6 +4,7 @@
 <div>
   <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api?username=NadyneBarbieri&show_icons=true&locale=en&theme=react" alt="NadyneBarbieri"/>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadyneBarbieri&layout=compact&langs_count=7&theme=react"/>
+  <br clear="both">
   <img align="right" height="180px"  src="https://media.giphy.com/media/OpzPFEqd44SYAIFrs6/giphy.gif">
 </div>
  
@@ -42,9 +43,10 @@
   <img width="100" height="28" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </div>
-<br clear="both">
+
 <div >
 <p align="center" margin="300px"> Total de visitas des de 26/02/2022 </p>
+  <br clear="both">
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/NadyneBarbieri/count.svg" />
 </p>
