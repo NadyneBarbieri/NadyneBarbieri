@@ -27,7 +27,7 @@
   <img align="center" height="30px" width="40px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
  
  </div>
-
+<br clear="both">
  <h1>Contato:</h1>
  <div  height="200px" width="200px"> 
   <a target="_blank" href="https://www.instagram.com/nadyenebarbieri/" target="_blank">
@@ -42,6 +42,7 @@
   <img width="100" height="28" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </div>
+<br clear="both">
 <div >
 <p align="center" margin="300px"> Total de visitas des de 26/02/2022 </p>
 <p align="center"> 
