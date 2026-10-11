@@ -50,7 +50,7 @@
 <p align="center" margin="300px"> Total de visitas des de 26/02/2022 </p>
   
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NadyneBarbieri&color=brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=NadyneBarbieri" />
 </p>
 </div>
 <br clear="both">
